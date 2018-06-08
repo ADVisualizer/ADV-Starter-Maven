@@ -16,12 +16,12 @@
         <dependency>
             <groupId>ch.hsr.adv</groupId>
             <artifactId>adv-lib</artifactId>
-            <version>0.3</version>
+            <version>1.0</version>
         </dependency>
         <dependency>
             <groupId>ch.hsr.adv</groupId>
             <artifactId>adv-ui</artifactId>
-            <version>0.3</version>
+            <version>1.0</version>
         </dependency>
     </dependencies>
 
